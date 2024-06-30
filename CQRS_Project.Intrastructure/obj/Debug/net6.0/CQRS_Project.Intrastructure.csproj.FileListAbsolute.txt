@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\CQRS_Project\CQRS_Project.Intrastructure\bin\Debug\net6.0\CQRS_Project.Intrastructure.deps.json
+C:\Users\Admin\source\repos\CQRS_Project\CQRS_Project.Intrastructure\bin\Debug\net6.0\CQRS_Project.Intrastructure.dll
+C:\Users\Admin\source\repos\CQRS_Project\CQRS_Project.Intrastructure\bin\Debug\net6.0\CQRS_Project.Intrastructure.pdb
+C:\Users\Admin\source\repos\CQRS_Project\CQRS_Project.Intrastructure\bin\Debug\net6.0\CQRS_Project.Application.dll
+C:\Users\Admin\source\repos\CQRS_Project\CQRS_Project.Intrastructure\bin\Debug\net6.0\CQRS_Project.Domain.dll
+C:\Users\Admin\source\repos\CQRS_Project\CQRS_Project.Intrastructure\bin\Debug\net6.0\CQRS_Project.Application.pdb
+C:\Users\Admin\source\repos\CQRS_Project\CQRS_Project.Intrastructure\bin\Debug\net6.0\CQRS_Project.Domain.pdb
+C:\Users\Admin\source\repos\CQRS_Project\CQRS_Project.Intrastructure\obj\Debug\net6.0\CQRS_Project.Intrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CQRS_Project\CQRS_Project.Intrastructure\obj\Debug\net6.0\CQRS_Project.Intrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CQRS_Project\CQRS_Project.Intrastructure\obj\Debug\net6.0\CQRS_Project.Intrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CQRS_Project\CQRS_Project.Intrastructure\obj\Debug\net6.0\CQRS_Project.Intrastructure.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CQRS_Project\CQRS_Project.Intrastructure\obj\Debug\net6.0\CQRS_Project.Intrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CQRS_Project\CQRS_Project.Intrastructure\obj\Debug\net6.0\CQRS_Project.Intrastructure.csproj.CopyComplete
+C:\Users\Admin\source\repos\CQRS_Project\CQRS_Project.Intrastructure\obj\Debug\net6.0\CQRS_Project.Intrastructure.dll
+C:\Users\Admin\source\repos\CQRS_Project\CQRS_Project.Intrastructure\obj\Debug\net6.0\refint\CQRS_Project.Intrastructure.dll
+C:\Users\Admin\source\repos\CQRS_Project\CQRS_Project.Intrastructure\obj\Debug\net6.0\CQRS_Project.Intrastructure.pdb
+C:\Users\Admin\source\repos\CQRS_Project\CQRS_Project.Intrastructure\obj\Debug\net6.0\ref\CQRS_Project.Intrastructure.dll

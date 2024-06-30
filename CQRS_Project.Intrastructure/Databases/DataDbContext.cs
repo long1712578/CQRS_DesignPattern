@@ -5,11 +5,11 @@ namespace CQRS_Project.Intrastructure.Databases
 {
     public class DataDbContext : DbContext
     {
-        public DbSet<Product> Products { get; set; }
         public DataDbContext(DbContextOptions options) : base(options) { }
+        public DbSet<Product> Products { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.ApplyConfigurationsFromAssembly(typeof(DataDbContext).Assembly);
+            //modelBuilder.ApplyConfigurationsFromAssembly(typeof(DataDbContext).Assembly);
         }
     }
 }
